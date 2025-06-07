@@ -1,6 +1,6 @@
 Lista de Compras - CLI em Python
 
-Este repositório contém um simples aplicativo de linha de comando (CLI) para gerenciar uma lista de compras. O usuário pode inserir itens, removê-los pelo nome ou índice, listar os produtos adicionados e encerrar o programa.
+Um aplicativo de linha de comando para gerenciar uma lista de compras, onde você pode inserir itens, removê-los pelo nome ou índice e listar todos os produtos adicionados.
 
 📋 Funcionalidades
 
